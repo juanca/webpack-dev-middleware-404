@@ -1654,9 +1654,9 @@
       }
     },
     "webpack-dev-middleware": {
-      "version": "1.8.1",
-      "from": "webpack-dev-middleware@latest",
-      "resolved": "https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-1.8.1.tgz"
+      "version": "1.7.0",
+      "from": "webpack-dev-middleware@1.7.0",
+      "resolved": "https://registry.npmjs.org/webpack-dev-middleware/-/webpack-dev-middleware-1.7.0.tgz"
     },
     "webpack-dev-server": {
       "version": "1.16.1",
