@@ -12,7 +12,7 @@
   "dependencies": {
     "stats-webpack-plugin": "^0.4.2",
     "webpack": "^1.13.2",
-    "webpack-dev-middleware": "^1.7.0",
+    "webpack-dev-middleware": "^1.8.1",
     "webpack-dev-server": "^1.16.1"
   }
 }
