@@ -4,7 +4,7 @@ module.exports = {
   entry: './index.js',
 
   output: {
-    publicPath: `//localhost:8080/`,
+    publicPath: `http://localhost:8080/`,
   },
 
   plugins: [
